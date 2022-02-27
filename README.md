@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcos Carvalho.
 - 👀 I'm a IT student.
-- 🌱 I’m currently learning JS, PHP, WP.
+- 🌱 I’m currently learning JS, PHP.
 - 📫 <a href=https://about.me/marcoscarvalho>about.me</a>
 
 <!---
