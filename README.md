@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marcos Carvalho.
 - 👀 I'm a IT student.
 - 🌱 I’m currently learning JS, PHP.
-- 📫 <a href=https://about.me/marcoscarvalho>about.me</a>
+- 📫 [about.me](https://about.me/marcoscarvalho)
 
 <!---
 marcoscarvalho-tk/marcoscarvalho-tk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
